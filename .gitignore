@@ -1,0 +1,5 @@
+Data/
+my_checkpoint.pth.tar
+puremodel.pth.tar
+models/
+Notebooks/
